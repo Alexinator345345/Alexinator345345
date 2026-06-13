@@ -8,7 +8,7 @@ ABILITIES
 - Cyclone 3DR
 - Learning C++
 
-- Undergrad for Computer Systems Technician at Algonquin College Pembroke
+- Undergrad for Computer Systems Technician at Algonquin College 
 
 PROJECTS
 -----------
