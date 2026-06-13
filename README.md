@@ -1,11 +1,12 @@
 ABILITIES
 -----------
-Bash
-Python
-Unreal Engine 5
-Unity
-Learning C++
+- Bash
+- Python
+- Unreal Engine 5
+- Unity
+- Learning C++
 
+- Undergrad for Computer Systems Technician at Algonquin College Pembroke
 PROJECTS
 -----------
 OmegaSpin - First Person FPS
@@ -20,7 +21,7 @@ Radiation Simulator - Visualize Radiation in a Video Game Enviornment
 
 ABOUT ME
 ----------
-I am Alex, ploosnar, and Alexinator345345 simulationously. My journey began on Scratch around 2016 and ever since then I have loved game design and programming. 
+Born in 2007, I am Alex, ploosnar, and Alexinator345345 simulationously. My journey began on Scratch around 2016 and ever since then I have loved game design and programming. 
 Some of my early projects include Scratch Cat Dies Tragically and the first version of OmegaSpin.
 
 Since then I have become a 3D artist and working with a small team we have developed a new version of OmegaSpin in Unity. We have released an early version on itch.io and plan to update it.
